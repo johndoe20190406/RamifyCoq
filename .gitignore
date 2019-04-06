@@ -1,0 +1,6 @@
+.depend
+_CoqProject
+CONFIGURE
+*.aux
+*.glob
+*.vo
